@@ -1,0 +1,4 @@
+name: Stafftime
+version: '1.0'
+main: org.djtmk.stafftime.Stafftime
+api-version: '1.21'
